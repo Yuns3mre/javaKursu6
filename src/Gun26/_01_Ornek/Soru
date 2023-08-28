@@ -1,0 +1,7 @@
+// Bir kampüss programı için aşağıdaki özellikteki bilgilerin
+// kaydedeceği classları yazınız
+// Ogrenci : okulNo, Adı, Soyadi, okul
+// okul : okulAd, MudurAdi, okulAdres
+// bu şekilde 1 öğrenci tanımlayıp bütün bilgileri kendiniz
+// atayıp yazdırınız
+

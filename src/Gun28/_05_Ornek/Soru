@@ -1,0 +1,14 @@
+/*
+      1. Adım :Müşteri isimli (fields: name) isimli bir class tanımlayınız
+      2. Adım :ElektrikHesabı isimli (fields : toplamTuketim(int) , birimFiyat(double),
+               fatura(double)) class tanımlayınız
+      3. Adım :Musteri'ye bir elektrik hesabı ekleyiniz
+      4. Adım :1 tane müşteri hesabı oluşturunuz
+      5. Adım :Müsteriye ait her ay tüketilen enerjiyi toplayacak bir metod yazınız.
+               tuketimekle olsun er verilen aylık rakamı toplayarak biriktirsin.
+      6. Adım :Ödenecek rakamı Toplam tüketimi birim fiyat(20) ile çarparak hesaplatınız, yazdırınız.
+
+      İpucu   :Hesabı oluşturduktan sonra tuketimEkle metoduna 2,3 ay tüketim ekletiniz, faturayı
+               ondan sonra toplam alarak hesaplatınız
+*/
+

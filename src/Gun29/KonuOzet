@@ -1,0 +1,21 @@
+Access Modifiers (Erişim belirteçleri, izinler)
+1- Class içinden erişim
+2- Paketin içinden erişim
+3- Diğer paketlerden erişim
+
+pıblic, private, default(hiç bir şey yazılmazsa, friendly), protected
+
+public : Projenin her yerinden erişime açık demek
+         class, metod, field çalıştığı alanlar
+
+default : (hiç bir şey yazılmazsa), sadece kendi paketindekiler erişebilir
+           class, metod, field çalıştığı alanlar
+
+private : sadece class içinden erişilebilir
+          metod ve field ile çalışır
+
+protected : default ile aynı çalışır, (bir erişim izni daha var onu 3 konu sonra görücez)
+          metod ve field ile çalışır
+
+
+

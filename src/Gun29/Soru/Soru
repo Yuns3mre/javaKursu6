@@ -1,0 +1,6 @@
+Hesap yatan ((int), çekilen(int), bakiye(int))
+Musteri (MusteriNo(int), ad, soyad, MusteriHesap(Hesap tipinde))
+Bir banka uygulaması için 1 müsteri tanımlayınız
+Musteri hesabın asırayla 10TL, 200TL yatırınız sonra da 50TL çekiniz
+Müşterinin toplam yatanıi toplam çekileni ve kalan bakiyesini yazdırınız
+Bakiyeye direk para atanamadığını kontrol ediniz
